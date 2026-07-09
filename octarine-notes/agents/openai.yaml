@@ -1,0 +1,4 @@
+interface:
+  display_name: "Octarine Notes"
+  short_description: "Save Markdown notes into Octarine workspaces"
+  default_prompt: "Use $octarine-notes to save this as an Octarine note."
