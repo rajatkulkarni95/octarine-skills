@@ -1,0 +1,4 @@
+interface:
+  display_name: "Octarine CLI"
+  short_description: "Search, read, and edit Octarine workspaces with the octarine CLI"
+  default_prompt: "Use $octarine-cli to find and update notes in my Octarine workspace."
